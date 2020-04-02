@@ -1,0 +1,16 @@
+{
+  "name": "learn-koa",
+  "version": "0.0.0",
+  "description": "koa example",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "zxf4399",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
+}
